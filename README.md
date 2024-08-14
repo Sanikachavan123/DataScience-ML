@@ -5,7 +5,7 @@ If you’re into Data Science, ML, or just curious about what I’ve been up to,
 <br>
 <h1>📝 Project Descriptions</h1>
 <br>
-<h4> 1) Admission Prediction</h4>
+<h3> 1) Admission Prediction</h3>
 Predicts the likelihood of a student getting admitted to a university.
 In this project, I built a model that estimates a student's chances of admission based on factors like GRE score, TOEFL score, and GPA. It's a handy tool for aspiring grad students to gauge their admission prospects.
 
